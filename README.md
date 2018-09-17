@@ -11,3 +11,6 @@ Doc 文件(Google)
 |[洗碗服侍安排.html](https://cecpadua.github.io/docs/xiwan.html)           |
 |[敬拜团事工安排.html](https://cecpadua.github.io/docs/jbt.html)           |
 |[主日事工安排.html](https://cecpadua.github.io/docs/dujing.html)          |
+
+
+© 2018 Whyle
